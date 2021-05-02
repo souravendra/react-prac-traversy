@@ -1,1 +1,33 @@
-# react-prac-traversy
+# ReactJS concepts overview (practice)
+
+- Create a React app
+- Files & folders
+- App component & JSX
+- Expressions in JSX
+- Creating a component
+- Component Props
+- PropTypes
+- Styling
+- Button Component
+- Events
+- Tasks Component
+- Create a list with .map()
+- State & useState Hook
+- Global state
+- Task Component
+- Icons with react-icons
+- Delete task & prop drilling
+- Optional message if no tasks
+- Toggle reminder & conditional styling
+- Add Task Form
+- Form input state (controlled components)
+- Add task submit
+- showAddTask state
+- Button toggle
+- Build for production
+- JSON Server
+- useEffect Hook & Fetch tasks from server
+- Delete task from server
+- Add task to server
+- Toggle reminder on server
+- Routing, footer
